@@ -1,9 +1,11 @@
-/*
- * Prelab6.c
- *
- * Created: 23/04/2024 08:43:22
- * Author : josea
- */ 
+/*;UNIVERSIDAD DEL VALLE DE GUATEMALA
+;IE2023: PROGRAMACIÓN DE MICROCONTROLADORES
+;Lab2.asm
+;AUTOR: Jose Andrés Velásquez Gacía
+;PROYECTO: prelab6
+;HARDWARE: ATMEGA328P
+;CREADO: 12/02/2024
+;ÚLTIMA MODIFICACIÓN: 22/02/2024 23:36*/
 
 #define  F_CPU 16000000
 #include <avr/io.h>
